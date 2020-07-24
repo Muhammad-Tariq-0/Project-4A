@@ -1,0 +1,33 @@
+.abc{
+  margin-top: 15px;
+    width: 200px;
+    height: 230px;
+}
+.ac{
+    width: 370px;
+    height: 350px;
+  
+}
+
+.txt{
+    font-family: 'Times New Roman', Times, serif;
+    color: cyan;
+    font-stretch: semi-expanded;
+    margin-top: 50px;
+}
+.distance{
+    display: flex;
+    justify-content: space-evenly;
+    width: 1300px;
+    height: 700px;
+}
+
+ body{
+background-image: url(./pics/back.jpg);
+background-repeat: no-repeat;
+background-size: 1300px 700px;
+
+} 
+
+
+
